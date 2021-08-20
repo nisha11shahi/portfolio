@@ -1,0 +1,124 @@
+{
+    "main": {
+        "name": "Nisha Shahi",
+        "occupation": "Full Stack Application Developer",
+        "description": "I eat, sleep and code",
+        "image": "profilepic.jpg",
+        "bio": "Hi there! I am Nisha! I have years of professional full stack development experience. I work with technologies like C#.Net, HTML5, CSS3, JS, JQuery, SQL, Bootstrap, Kendo UI, Responsive Design, Selenium, React and more. I am also responsible for the deployment and maintenance of multiple full stack web applications used by 50+ clients nationwide using technologies like Azure, AWS, Windows Server, IIS. I am a hardcore STEMINIST and love to encourage and see more women in technology.",
+        "contactmessage": "Get in touch with me to know more about me.!",
+        "email": "nisha11shahi@gmail.com",
+        "phone": "",
+        "address": {
+            "street": "",
+            "city": "",
+            "state": "",
+            "zip": ""
+        },
+        "website": "https://",
+        "resumedownload": "http://",
+        "social": [
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/n1shahi",
+                "className": "fa fa-linkedin"
+            },
+
+            {
+                "name": "github",
+                "url": "https://github.com/nisha11shahi",
+                "className": "fa fa-github"
+            }
+        ]
+    },
+    "resume": {
+        "skillmessage": "Proficiency",
+        "education": [
+            {
+                "school": "Southeast Missouri State University - USA",
+                "degree": "Master of Science, Applied Computer Science",
+                "graduated": "May 2020",
+                "description": "Graduated with 4.0 GPA and received Outstanding Student in Computer Science Award"
+            },
+            {
+                "school": "St. Xavier's College - Nepal",
+                "degree": "Bachelor of Science, Computer Science and Imformation Technology",
+                "graduated": "December 2017",
+                "description": "Graduated with 3.6 GPA"
+            }
+        ],
+        "work": [
+            {
+                "company": "Element 74",
+                "title": "Application Developer",
+                "years": "May 2020 - Present",
+                "description": "Designing and developing performant, responsive web applications for clients using .NET framework (ASP.NET), C#, AJAX, SQL Server, JavaScript, LINQ. Supporting existing client application with updates, maintenance, and new features or functionality using technologiesl like AWS, Windows Server, IIS, PowerShell, Task Scheduler. Implementing rich integrations for clients using Sendgrid, Mailchimp, Constant Contact, AWS S3 API, Stripe, Paypal, Authorize.Net, Zoom, GoToMeeting."
+            }
+        ],
+        "skills": [
+            {
+                "name": ".Net",
+                "level": "99%"
+            },
+            {
+                "name": "React",
+                "level": "50%"
+            },
+            {
+                "name": "Python",
+                "level": "85%"
+            },
+            {
+                "name": "Git",
+                "level": "99%"
+            },
+            {
+                "name": "JavaScript",
+                "level": "99%"
+            },
+            {
+                "name": "Responsive Design",
+                "level": "95%"
+            },
+            {
+                "name": "SQL",
+                "level": "99%"
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [
+            {
+                "title": "Covid 19 Tracker",
+                "category": "",
+                "image": "covid-tracker.png",
+                "url": "https://covid-19-tracker-3c89b.web.app/"
+            },
+            {
+                "title": "Simple News",
+                "category": "",
+                "image": "news.png",
+                "url": "https://nisha11shahi.github.io/topNews/"
+            },
+            {
+                "title": "Weather",
+                "category": "",
+                "image": "weather.png",
+                "url": "https://nisha11shahi.github.io/WeatherApp/"
+            },
+            {
+                "title": "Todo list",
+                "category": "",
+                "image": "todolist.png",
+                "url": "https://mychecklist-9dad4.web.app/"
+            }
+        ]
+    },
+    "testimonials": {
+        "testimonials": [
+            {
+                "text": "She thinks. She dreams. She learns. She works. She inspires. She builds. She codes. She can.",
+                "user": "Her"
+            }
+        ]
+    }
+}
